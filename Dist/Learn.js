@@ -1,0 +1,1 @@
+function myFunction(e,n){return e*n}$(document).ready(function(){alert("hi"),console.log("Hello, my name is abc")});var Person={firstName:"Fred",sayName:function(){console.log("Hello, my name is "+this.firstName)}};Person.sayName();
